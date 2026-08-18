@@ -27,3 +27,13 @@ models/
 
 # Logs
 *.log
+
+# Environment variables
+.env
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# OS files
+Thumbs.db
