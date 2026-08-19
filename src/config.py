@@ -1,0 +1,3 @@
+RANDOM_STATE = 42
+N_SPLITS = 5
+TARGET_COLUMN = "Transported"
