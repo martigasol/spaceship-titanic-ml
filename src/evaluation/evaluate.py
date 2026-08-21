@@ -53,7 +53,7 @@ def compare_models(
     preprocessor,
     X,
     y,
-) -> pd.DataFrame:
+) -> pd.DataFrame: 
     """
     Compare multiple models using cross validation.
     """
