@@ -23,7 +23,7 @@ data/processed/
 data/external/
 
 # Trained models
-models/
+#models/
 
 # Logs
 *.log
